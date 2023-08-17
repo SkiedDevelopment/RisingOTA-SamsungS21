@@ -1,0 +1,7 @@
+Highlights & Device Specific Changes:
+Build type: Alpha
+Device: Samsung S21 Ultra
+Device maintainers: Skied
+
+====17 August, 2023 ====
+* Attempt to fix Robotic Mic
