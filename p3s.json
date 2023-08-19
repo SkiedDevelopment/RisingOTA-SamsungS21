@@ -5,7 +5,7 @@
                         "oem": "Samsung",
                         "device": "Samsung S21 Ultra",
                         "filename": "risingOS-v1.3-Dvaraka-RELEASE-202308192018-p3s-GAPPS-COMMUNITY.zip",
-                        "download": "",
+                        "download": "https://github.com/SkiedDevelopment/RisingOTA-SamsungS21/releases/download/Release/risingOS-v1.3-Dvaraka-RELEASE-202308192018-p3s-GAPPS-COMMUNITY.zip",
                         "timestamp": 1692475812,
                         "md5": "67c07776532fbb7a3d7221a53387561e",
                         "sha256": "698b2f45c6b9de02c2413eab9f3ff81649d7ac685f17ae7c90a131cc7f3404d8",
