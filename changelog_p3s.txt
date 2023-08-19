@@ -3,5 +3,5 @@ Build type: Alpha
 Device: Samsung S21 Ultra
 Device maintainers: Skied
 
-====17 August, 2023 ====
-* Attempt to fix Robotic Mic
+==== 19 August, 2023 ====
+* OTA Test
